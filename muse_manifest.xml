@@ -1,0 +1,107 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zhohovshop.xyz" resolutions="1x" timestamp="1506885266102">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="____.css" crc="247814223" ref="чаво"/>
+    <file name="index.css" crc="4291828592" ref="index"/>
+    <file name="______.css" crc="4286799180" ref="товары"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:товары:чаво"/>
+    <file name="museutils.js" crc="17924269" ref="index:товары:чаво"/>
+    <file name="whatinput.js" crc="86476730" ref="index:товары:чаво"/>
+    <file name="museconfig.js" crc="144853533" ref="index:товары:чаво"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:товары:чаво"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:товары:чаво"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index:товары:чаво"/>
+    <file name="webpro.js" crc="416662029" ref="товары"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="товары"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="товары"/>
+    <file name="touchswipe.js" crc="432264157" ref="товары"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="438491847" ref="index"/>
+    <file name="kompyuter-dlya-hudozhnika-2017.jpg" crc="499919655" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u182-9.png" crc="197446771" ref="index"/>
+    <file name="icons8-главная-64-u290-fr.png" crc="379494236" ref="index:товары:чаво"/>
+    <file name="icons8-купить-64-u291-fr.png" crc="437767454" ref="index:товары:чаво"/>
+    <file name="icons8-help-64.png" crc="224969266" ref="index:товары:чаво">
+      <caption webpage="index" alt=""/>
+      <caption webpage="чаво" alt=""/>
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="icons8-vkcom-64-u293-fr.png" crc="436954084" ref="index:товары:чаво"/>
+    <file name="icons8-щетка-64.png" crc="4061582800" ref="index:товары:чаво">
+      <caption webpage="index" alt=""/>
+      <caption webpage="чаво" alt=""/>
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="56a50079187bd1527489d90c.jpg" crc="4073569021" ref="товары">
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="u771-4.png" crc="3899904612" ref="товары"/>
+    <file name="чиби.jpg" crc="322204760" ref="товары">
+      <caption webpage="товары" alt=""/>
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="товары"/>
+    <file name="аа.jpg" crc="3806626231" ref="товары">
+      <caption webpage="товары" alt=""/>
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="шапка.jpg" crc="255456614" seo="true" ref="товары">
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="парт.jpg" crc="3761034083" ref="товары">
+      <caption webpage="товары" alt=""/>
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="роспись.jpg" crc="4294684690" ref="товары">
+      <caption webpage="товары" alt=""/>
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="чиби195x195.jpg" crc="4080219102" seo="true" ref="товары">
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="аа195x195.jpg" crc="292726915" seo="true" ref="товары">
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="шапка-crop-u625.jpg" crc="433333446" seo="true" ref="товары">
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="парт195x195.jpg" crc="4235292519" seo="true" ref="товары">
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="роспись195x195.jpg" crc="480006778" seo="true" ref="товары">
+      <caption webpage="товары" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="товары"/>
+    <file name="u852-4.png" crc="147163373" ref="товары"/>
+    <file name="u267-17.png" crc="4202268249" ref="товары"/>
+    <file name="u846_states.png" crc="4213189736" ref="товары"/>
+    <file name="u846_states-r.png" crc="4213189736" ref="товары"/>
+    <file name="u866-18.png" crc="4263243193" ref="товары"/>
+    <file name="u879_states.png" crc="4213189736" ref="товары"/>
+    <file name="u879_states-r.png" crc="4213189736" ref="товары"/>
+    <file name="u914-17.png" crc="4212014827" ref="товары"/>
+    <file name="u918_states.png" crc="4213189736" ref="товары"/>
+    <file name="u918_states-r.png" crc="4213189736" ref="товары"/>
+    <file name="u940-18.png" crc="4263243193" ref="товары"/>
+    <file name="u944_states.png" crc="4213189736" ref="товары"/>
+    <file name="u944_states-r.png" crc="4213189736" ref="товары"/>
+    <file name="u961-17.png" crc="449419575" ref="товары"/>
+    <file name="u965_states.png" crc="4213189736" ref="товары"/>
+    <file name="u965_states-r.png" crc="4213189736" ref="товары"/>
+    <file name="cintiq-27qhd-wacom-lebanon.jpg" crc="210324249" ref="чаво">
+      <caption webpage="чаво" alt=""/>
+    </file>
+    <file name="u356-11.png" crc="157226818" ref="чаво"/>
+    <file name="icons8-папка с загрузками-64-u359-fr.png" crc="4045508606" ref="чаво"/>
+    <file name="u370-5.png" crc="521359487" ref="чаво"/>
+  </folder>
+  <file name="index.html" crc="4084038694" seo="true" mt="1506879646300" redirect="true"/>
+  <file name="товары.html" crc="201675286" seo="true" mt="1506885092360" redirect="true"/>
+  <file name="чаво.html" crc="4214755443" seo="true" mt="1506879646310" redirect="true"/>
+</manifest>
